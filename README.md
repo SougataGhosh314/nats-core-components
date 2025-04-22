@@ -174,3 +174,5 @@ We recommend using a central registry like nats-schema-registry.
 ✔️ SHA-256 validation of .proto descriptors
 ✔️ Prevents accidental mismatches between producer and consumer
 ✔️ Supports versioned topics (user.create.v1, user.create.v2, etc.)
+
+Check out the example client built using this library: https://github.com/SougataGhosh314/user-service-nats-client
